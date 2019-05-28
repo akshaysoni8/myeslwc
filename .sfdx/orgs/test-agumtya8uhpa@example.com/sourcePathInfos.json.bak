@@ -5,7 +5,7 @@
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1559028823281,
+            "modifiedTime": 1559036065988,
             "changeTime": 1559028823281,
             "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
             "isMetadataFile": false,
@@ -32,16 +32,14 @@
     [
         "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1559028860888,
-            "changeTime": 1559028860888,
-            "contentHash": "8629f0e2cc130f5ca9aa9f49d4cbb84b76535d58",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1559036181303,
+            "changeTime": 1559036181303,
+            "contentHash": "5130528b6801a70fa47a4a005521a484a519a1df"
         }
     ],
     [
@@ -50,9 +48,9 @@
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1558954285121,
-            "changeTime": 1558954285121,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1559033952233,
+            "changeTime": 1559033952233,
+            "contentHash": "f63d541a9351f96e69318ffcacbc73c2b0daa6ab",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -65,9 +63,9 @@
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1559033120226,
-            "changeTime": 1559033120486,
-            "contentHash": "0c3cecc235c9953cdc04eee5fdd28505505d0a4f",
+            "modifiedTime": 1559033756715,
+            "changeTime": 1559033756715,
+            "contentHash": "c61fb279c745cd9abec3d98fa07ad5cb44ff8dcf",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -80,13 +78,12 @@
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1558956732414,
-            "changeTime": 1558956732414,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1559032104012,
+            "changeTime": 1559032104012,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -302,61 +299,53 @@
     [
         "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6147,
-            "modifiedTime": 1559028860803,
-            "changeTime": 1559028860803,
-            "contentHash": "f077750c32d8f4cf7d52d2d0e4de057e231f219b",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6638,
+            "modifiedTime": 1559036181107,
+            "changeTime": 1559036181107,
+            "contentHash": "f0dcd6506910ae5107d2b78b98f1a37d092e7872"
         }
     ],
     [
         "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6147,
-            "modifiedTime": 1559028860821,
-            "changeTime": 1559028860821,
-            "contentHash": "f077750c32d8f4cf7d52d2d0e4de057e231f219b",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6638,
+            "modifiedTime": 1559036181139,
+            "changeTime": 1559036181139,
+            "contentHash": "f0dcd6506910ae5107d2b78b98f1a37d092e7872"
         }
     ],
     [
         "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6485,
-            "modifiedTime": 1559028860843,
-            "changeTime": 1559028860843,
-            "contentHash": "8efc19e9095543bb4607e8ee752c554ff93dda1d",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 6976,
+            "modifiedTime": 1559036181175,
+            "changeTime": 1559036181175,
+            "contentHash": "1f122e64448caa83a174449d08a6b2ce0168c144"
         }
     ],
     [
         "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 20288,
-            "modifiedTime": 1559028860873,
-            "changeTime": 1559028860873,
-            "contentHash": "764a3ceb9fc62d2d261fd6bd24c02f0e200a6da2",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 20778,
+            "modifiedTime": 1559036181291,
+            "changeTime": 1559036181291,
+            "contentHash": "b99253d58709087e790002af0d12c7bdd256d841"
         }
     ],
     [
@@ -747,6 +736,385 @@
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033952301,
+            "changeTime": 1559033952301,
+            "contentHash": "084528634d0926ac36b51bdcf6a2f62af14a9225",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1559033952297,
+            "changeTime": 1559033952297,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+            "isDirectory": false,
+            "size": 1031,
+            "modifiedTime": 1559034023677,
+            "changeTime": 1559034023677,
+            "contentHash": "691415bff58ea771826eae3418e12154dbb08fd4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1559033952257,
+            "changeTime": 1559033952257,
+            "contentHash": "69bc744e423eff6fc5015da137642e631c2c9557",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1559033952281,
+            "changeTime": 1559033952281,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1559033952305,
+            "changeTime": 1559033952305,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1559033952293,
+            "changeTime": 1559033952293,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+            "isDirectory": false,
+            "size": 656,
+            "modifiedTime": 1559034082802,
+            "changeTime": 1559034082802,
+            "contentHash": "ce2947f6828997224f44c3a86cb71b7c15d5b685",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+            "isDirectory": false,
+            "size": 1299,
+            "modifiedTime": 1559034145985,
+            "changeTime": 1559034145985,
+            "contentHash": "7d45ff40eb7ae79f6ef2fd46e2ae075c0ad68d05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1559033952289,
+            "changeTime": 1559033952289,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033756747,
+            "changeTime": 1559033756747,
+            "contentHash": "af5a5c9ee853a9b072f6e2338da8c64dc6da5a5a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1559033894974,
+            "changeTime": 1559033894974,
+            "contentHash": "457048c2c8681710eeabe09922cc1e77c57c02d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+            "isDirectory": false,
+            "size": 1477,
+            "modifiedTime": 1559033787515,
+            "changeTime": 1559033787515,
+            "contentHash": "204f33810bf4e0ea3491d993f2ec0de0519d4b40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1559033756743,
+            "changeTime": 1559033756743,
+            "contentHash": "6b913a3095acca5d7d75031b40bf5058b45581cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2160,
+            "modifiedTime": 1559036180947,
+            "changeTime": 1559036180947,
+            "contentHash": "9bc9b2913a28338b5806ebd574ea7a2a975b06ae"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 511,
+            "modifiedTime": 1559036180963,
+            "changeTime": 1559036180963,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1884,
+            "modifiedTime": 1559036180983,
+            "changeTime": 1559036180983,
+            "contentHash": "82988892485c372a0a6115dffb8ccf2bbc1c93f3"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1157,
+            "modifiedTime": 1559036180999,
+            "changeTime": 1559036180999,
+            "contentHash": "5434536959ccfdc930d98d7977455619aac63b37"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1559036181023,
+            "changeTime": 1559036181023,
+            "contentHash": "09f8f5faa062e468f015c54ce7f372ab089ea9c4"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 441,
+            "modifiedTime": 1559036181043,
+            "changeTime": 1559036181043,
+            "contentHash": "c5c172efb416c5962696508312020a159f95da21"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1506,
+            "modifiedTime": 1559036181059,
+            "changeTime": 1559036181059,
+            "contentHash": "e264fb321397cbd172496412356825b0d14ec5ed"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1559036181307,
+            "changeTime": 1559036181307,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 148954,
+            "modifiedTime": 1559036181327,
+            "changeTime": 1559036181327,
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559036180995,
+            "changeTime": 1559036180995,
+            "contentHash": "e8f40d3528e311efbfadd83fdaeb8412a45ced20"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559036181019,
+            "changeTime": 1559036181019,
+            "contentHash": "30dcebc07adbf6717ade349c08f60375431b88e2"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559036181059,
+            "changeTime": 1559036181059,
+            "contentHash": "70c0161ec76b1a3cbdd925660912d23d68bf9cda"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559036181323,
+            "changeTime": 1559036181323,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
         }
     ]
 ]
