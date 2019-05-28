@@ -1,0 +1,467 @@
+[
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954285117,
+            "changeTime": 1558954285117,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954285121,
+            "changeTime": 1558954285121,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860888,
+            "changeTime": 1559028860888,
+            "contentHash": "8629f0e2cc130f5ca9aa9f49d4cbb84b76535d58"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954285121,
+            "changeTime": 1558954285121,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954285125,
+            "changeTime": 1558954285125,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc",
+        {
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558956732414,
+            "changeTime": 1558956732414,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Test_CheckBox__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Test_CheckBox__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1559028860602,
+            "changeTime": 1559028860602,
+            "contentHash": "100675851567605d08c9e84b719cea04c75264ba"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1559028860624,
+            "changeTime": 1559028860624,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1559028860632,
+            "changeTime": 1559028860632,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 682,
+            "modifiedTime": 1559028860639,
+            "changeTime": 1559028860639,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 678,
+            "modifiedTime": 1559028860646,
+            "changeTime": 1559028860646,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1559028860652,
+            "changeTime": 1559028860652,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 672,
+            "modifiedTime": 1559028860659,
+            "changeTime": 1559028860659,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1559028860666,
+            "changeTime": 1559028860666,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3351,
+            "modifiedTime": 1559028860711,
+            "changeTime": 1559028860711,
+            "contentHash": "e91f691fa3cdf2c86e3297f5cd17c0b77dbb3612"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1559028860725,
+            "changeTime": 1559028860725,
+            "contentHash": "a3225660300801b8b42a65d85b69b7710e5ab2fe"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559028860737,
+            "changeTime": 1559028860737,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1805,
+            "modifiedTime": 1559028860750,
+            "changeTime": 1559028860750,
+            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559028860766,
+            "changeTime": 1559028860766,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1731,
+            "modifiedTime": 1559028860777,
+            "changeTime": 1559028860777,
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6147,
+            "modifiedTime": 1559028860803,
+            "changeTime": 1559028860803,
+            "contentHash": "f077750c32d8f4cf7d52d2d0e4de057e231f219b"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6147,
+            "modifiedTime": 1559028860821,
+            "changeTime": 1559028860821,
+            "contentHash": "f077750c32d8f4cf7d52d2d0e4de057e231f219b"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6485,
+            "modifiedTime": 1559028860843,
+            "changeTime": 1559028860843,
+            "contentHash": "8efc19e9095543bb4607e8ee752c554ff93dda1d"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20288,
+            "modifiedTime": 1559028860873,
+            "changeTime": 1559028860873,
+            "contentHash": "764a3ceb9fc62d2d261fd6bd24c02f0e200a6da2"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1002,
+            "modifiedTime": 1559028860893,
+            "changeTime": 1559028860893,
+            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 983,
+            "modifiedTime": 1559028860907,
+            "changeTime": 1559028860907,
+            "contentHash": "de544f33cfb2d92ac0f564eb49fbb5a3f953541b"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860597,
+            "changeTime": 1559028860597,
+            "contentHash": "7df9499b6daa72d830e984b5af01a9a0ba0ceb55"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860594,
+            "changeTime": 1559028860594,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860618,
+            "changeTime": 1559028860618,
+            "contentHash": "3efabf5c067ff018f58ba09f0d7c027ee8de5a90"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860626,
+            "changeTime": 1559028860626,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860661,
+            "changeTime": 1559028860661,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860724,
+            "changeTime": 1559028860724,
+            "contentHash": "66d6163afa03f9fe26001612cf88bc34c1ed4125"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860774,
+            "changeTime": 1559028860774,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860868,
+            "changeTime": 1559028860868,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\akshays774\\Documents\\SFDXTraining\\myeslwc\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559028860905,
+            "changeTime": 1559028860905,
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22"
+        }
+    ]
+]
